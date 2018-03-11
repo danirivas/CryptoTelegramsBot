@@ -1,0 +1,24 @@
+{
+  "name": "cryptotelegramsbot",
+  "version": "1.0.0",
+  "description": "Bot to get information from www.CryptoTelegrams.com",
+  "main": "bot.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.3.2",
+    "request": "^2.83.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "telegram",
+    "cryptotelegrams"
+  ],
+  "author": "Daniel Rivas",
+  "license": "ISC"
+}
